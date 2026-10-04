@@ -1,0 +1,4 @@
+[environment]
+TERMINAL = "kitty"
+BROWSER = "zen-browser"
+EXPLORER = "nautilus"
